@@ -7,6 +7,12 @@
 Being a web developer means being part of a community. We all need a place to share our projects not only if we're applying for jobs or working as a freelancer but also so that we can share our work with fellow developers and collaborate on future projects. 
 
 
+## Usage 
+
+To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
+
+
+
 ## Table of Contents
 * [License](#license)
 * [Installation](#installation)
@@ -66,19 +72,16 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 ```
 
-## Screenshots 
-
-<img width="1300" alt="Screen1" src="">
-
-<img width="1294" alt="Screen2" src="">
-
-
-
 
 ## Link 
-<a href="https://lemming97.github.io/React_Portfolio/">Click Here</a>
+<a href="https://superb-eclair-056816.netlify.app/">Click Here</a>
 
-## Usage 
 
-To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
+## Screenshots 
+
+<img width="1300" alt="Screen1" src="https://user-images.githubusercontent.com/49573760/183587569-abf121a5-d5c7-4d00-b76a-8665efd9409a.png">
+
+<img width="1294" alt="Screen2" src="https://user-images.githubusercontent.com/49573760/183587584-7235aa91-b1d7-41ed-add2-7aac2fe927da.png">
+
+
 
