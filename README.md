@@ -1,4 +1,4 @@
-# React_Portfolio
+# React Portfolio
 20. React Challenge: React Portfolio
 
 
@@ -7,7 +7,7 @@
 Being a web developer means being part of a community. We all need a place to share our projects not only if we're applying for jobs or working as a freelancer but also so that we can share our work with fellow developers and collaborate on future projects. 
 
 ## Link 
-<a href="">Click Here</a>
+<a href="https://superb-eclair-056816.netlify.app/#resume">Click Here</a>
 
 
 ## Usage 
@@ -79,9 +79,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots 
 
-<img width="1300" alt="Screen1" src="">
 
-<img width="1294" alt="Screen2" src="">
-
+<img width="1440" alt="one" src="https://user-images.githubusercontent.com/106297412/201604947-6d91a931-25af-43d3-b382-4b70b082d55e.png">
 
 
+<img width="1440" alt="two" src="https://user-images.githubusercontent.com/106297412/201605007-ff939f3a-e441-40da-93d5-d63da6b3b66e.png">
