@@ -68,9 +68,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots 
 
-<img width="1300" alt="Screen1" src="https://user-images.githubusercontent.com/49573760/183587569-abf121a5-d5c7-4d00-b76a-8665efd9409a.png">
+<img width="1300" alt="Screen1" src="">
 
-<img width="1294" alt="Screen2" src="https://user-images.githubusercontent.com/49573760/183587584-7235aa91-b1d7-41ed-add2-7aac2fe927da.png">
+<img width="1294" alt="Screen2" src="">
 
 
 
