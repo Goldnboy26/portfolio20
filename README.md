@@ -6,6 +6,9 @@
 
 Being a web developer means being part of a community. We all need a place to share our projects not only if we're applying for jobs or working as a freelancer but also so that we can share our work with fellow developers and collaborate on future projects. 
 
+## Link 
+<a href="">Click Here</a>
+
 
 ## Usage 
 
@@ -73,15 +76,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 
-## Link 
-<a href="https://superb-eclair-056816.netlify.app/">Click Here</a>
-
 
 ## Screenshots 
 
-<img width="1300" alt="Screen1" src="https://user-images.githubusercontent.com/49573760/183587569-abf121a5-d5c7-4d00-b76a-8665efd9409a.png">
+<img width="1300" alt="Screen1" src="">
 
-<img width="1294" alt="Screen2" src="https://user-images.githubusercontent.com/49573760/183587584-7235aa91-b1d7-41ed-add2-7aac2fe927da.png">
+<img width="1294" alt="Screen2" src="">
 
 
 
