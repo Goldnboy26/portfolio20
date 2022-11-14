@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a8c9b2f.css",
+    "main.js": "/static/js/main.c4d10c57.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Profile_Pic.png": "/static/media/Profile_Pic.391eab786f1ff2cb5a87.png",
+    "static/media/vinyl.png": "/static/media/vinyl.1e4079252721d5f50d24.png",
+    "static/media/5330558.jpg": "/static/media/5330558.a1f47d9ee608b5a1ee13.jpg",
+    "static/media/ApiMaster.png": "/static/media/ApiMaster.7e680dd51b3330c5c59b.png",
+    "static/media/Weather_Dash.png": "/static/media/Weather_Dash.fb8dfe9ddd2d1911fd44.png",
+    "static/media/MVCTBlog.png": "/static/media/MVCTBlog.b2371ca48b4baf33940f.png",
+    "static/media/passwordG.png": "/static/media/passwordG.8cfa48cb793ce823f98e.png",
+    "static/media/TextEditor.png": "/static/media/TextEditor.ff800120d872089cb581.png",
+    "static/media/NoteTaker.png": "/static/media/NoteTaker.a02f46f0add6517fa071.png",
+    "static/media/eduardomonje.pdf": "/static/media/eduardomonje.ada034e9c4080cbecaa9.pdf",
+    "index.html": "/index.html",
+    "main.9a8c9b2f.css.map": "/static/css/main.9a8c9b2f.css.map",
+    "main.c4d10c57.js.map": "/static/js/main.c4d10c57.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8c9b2f.css",
+    "static/js/main.c4d10c57.js"
+  ]
+}
