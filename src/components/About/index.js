@@ -14,17 +14,17 @@ function About() {
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Hello, my name is Eduardo Monje. I am currently 28 living in Seattle WA.
+          Hello, my name is Eduardo Monje. I am currently 28 and living in Seattle WA.
             I am a certified personal trainer with 8 years of experience helping people,
-            and working leading a team of trainers to lead them to success in their bussines.
+            and working leading a team of trainers to lead them to succeed in their businesses.
             I have been working out for 10 years and have done a few Body Building shows.
-            I am currently certified with the University of Wa with the Coding Bootcamp, and 
-            have worked with team mates in group projects as well as personal challenges. I been 
-            living in seattle for about 11 years I am originally from Honduras 
-            and currently naturalized American, I am currently fluent in spanish and english. 
+            I am currently certified with the University of Wa with the Coding Bootcamp and 
+            have worked with teammates in group projects as well as personal challenges. I have been 
+            living in Seattle for about 11 years I am originally from Honduras 
+            and am currently a naturalized American, I am currently fluent in Spanish and English. 
             I love to exercise, I am passionate about setting goals and aspirations 
-            in order to continue pushing myself. Finally, one of the things that sets me apart from 
-            most people is my discipline and my desire to continue learning in order to achive new 
+            to continue pushing myself. Finally, one of the things that set me apart from 
+            most people is my discipline and my desire to continue learning to achieve new 
             horizons in my life.
           </p>
         </div>
